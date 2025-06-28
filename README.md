@@ -1,5 +1,3 @@
-# react-router-v7-project-setup--guide
-
 # 🧭 Introduction to React Router v7 (Data Router API)
 
 [React Router v7](https://reactrouter.com/start/data/installation) introduced the **Data Router API**, a declarative and more powerful way to define routes, load data, handle actions, and manage layouts. Unlike the traditional approach using `BrowserRouter`, `Routes`, and `Route`, the data router approach uses functions like `createBrowserRouter` and `RouterProvider` to define routing, layouts, nested routes, and more.
