@@ -29,7 +29,7 @@ import Tasks from "@/pages/Tasks";
 import User from "@/pages/User";
 import UserDetails from "@/pages/UserDetails";
 import NotFound from "@/pages/NotFound";
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter } from "react-router";
 
 const router = createBrowserRouter([
   {
