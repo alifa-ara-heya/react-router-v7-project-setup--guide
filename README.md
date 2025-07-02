@@ -13,7 +13,7 @@ Use this guide if:
 ## 🚀 Install React Router
 
 ```bash
-npm i react-router-dom
+npm i react-router
 ```
 
 ---
