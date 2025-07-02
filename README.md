@@ -23,6 +23,7 @@ npm i react-router-dom
 You can use either `Component` or `element`, but with the Data Router API, prefer `Component`.
 
 ```ts
+//src/routes/index.ts
 import App from "@/App";
 import Tasks from "@/pages/Tasks";
 import User from "@/pages/User";
