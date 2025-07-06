@@ -75,7 +75,7 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import { Provider } from "react-redux";
 import { store } from "./redux/store";
-import { RouterProvider } from "react-router-dom";
+import { RouterProvider } from "react-router";
 import router from "./routes/index";
 import { ThemeProvider } from "./providers/theme-provider";
 
@@ -133,7 +133,7 @@ export default Tasks;
 ## 🔁 Dynamic Route Example - `users/:id`
 
 ```tsx
-import { useParams } from "react-router-dom";
+import { useParams } from "react-router";
 
 const UserDetails = () => {
   const { id } = useParams();
